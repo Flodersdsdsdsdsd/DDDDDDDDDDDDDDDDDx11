@@ -1,7 +1,7 @@
 const Discord = require('discord.js');
 const client = new Discord.Client();
 const prefix = ['-'];
-
+fd
 client.on('ready', () => {
   console.log('======================================')
   console.log(`Logged in as ${client.user.tag}!`);
